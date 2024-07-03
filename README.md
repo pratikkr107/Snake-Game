@@ -9,3 +9,7 @@ Sanke Game made using javascript
     <li><strong>Try to achieve the highest score possible!</li>
 </ul>
 <h2>Screenshot</h2>
+        
+![Snake_Game_ss](https://github.com/pratikkr107/Snake-Game/assets/146076433/b96e2deb-b7cd-4bdb-b7e1-d78df09d5f10)
+
+
